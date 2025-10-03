@@ -1,3 +1,3 @@
 ﻿# Kush-Sahni-2210110371-MAT495-Monsoon2025
 
-<img width="932" height="463" alt="image" src="https://github.com/user-attachments/assets/5af827af-d854-4c63-bb4d-c7d4d6d7ea26" />
+<img width="978" height="577" alt="image" src="https://github.com/user-attachments/assets/033e697e-1616-4091-9570-f5c6a80507bf" />
