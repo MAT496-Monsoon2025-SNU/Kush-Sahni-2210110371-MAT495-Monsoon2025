@@ -1,4 +1,166 @@
-# LangSmith Course Notebooks Documentation
+
+## Module 1: Tracing and Monitoring
+
+### Video 1 — Tracing Basics
+
+**Learnings:**
+- Learned how to implement fundamental tracing in LangChain applications
+- Understood the importance of metadata in organizing and identifying runs in LangSmith
+- Practiced setting up environment variables for tracing configuration
+- Gained insights into monitoring model questions and tracking performance
+
+**Code Changes:**
+- Implemented environment variable configuration for tracing
+- Added traceable decorators with metadata
+- Created test cases for validation
+
+**Notebook:**
+[tracing_basics.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_1/tracing_basics.ipynb)
+
+### Video 2 — Types of Run
+
+**Learnings:**
+- Mastered different run types and their specific uses
+- Understood how run types help in organizing and analyzing model outputs
+- Learned to use run types for better debugging and workflow transparency
+- Implemented clear separation between different components in the pipeline
+
+**Code Changes:**
+- Added run type annotations to different functions
+- Implemented proper tracing configuration
+- Created test cases with different run types
+
+**Notebook:**
+[types_of_runs.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_1/types_of_runs.ipynb)
+
+### Video 3 — Alternative Tracing Methods
+
+**Learnings:**
+- Explored different methods of implementing tracing
+- Learned about fine-grained control using trace() method
+- Understood global vs. specific tracing approaches
+- Studied various tracing configuration patterns
+
+**Code Changes:**
+- Implemented alternative tracing methods
+- Added fine-grained tracing controls
+- Created comparison test cases
+
+**Notebook:**
+[alternative_tracing_methods.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_1/alternative_tracing_methods.ipynb)
+
+### Video 4 — Conversational Thread
+
+**Learnings:**
+- Mastered the implementation of conversation threading
+- Learned to use metadata for linking related interactions
+- Understood how to maintain conversation context
+- Explored visualization of conversation flows in LangSmith
+
+**Code Changes:**
+- Implemented conversation thread management
+- Added metadata for thread tracking
+- Created multi-turn conversation examples
+
+**Notebook:**
+[conversational_threads.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_1/conversational_threads.ipynb)
+
+## Module 2: Experiments and Evaluation
+
+### Video 1 — Datasets
+
+**Learnings:**
+- Understood the concept of golden datasets in LangSmith
+- Learned different methods of creating and managing datasets
+- Explored various ways to add examples to datasets
+- Mastered dataset versioning and management
+
+**Code Changes:**
+- Implemented dataset creation and management
+- Added various types of examples
+- Created validation test cases
+
+**Notebook:**
+[dataset_upload.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_2/dataset_upload.ipynb)
+
+### Video 2 — Evaluators
+
+**Learnings:**
+- Mastered different types of evaluators in LangSmith
+- Understood metrics for model output evaluation
+- Learned to implement custom evaluators
+- Explored LLM-as-judge evaluation patterns
+
+**Code Changes:**
+- Created custom evaluator implementations
+- Added comparative evaluation cases
+- Implemented scoring mechanisms
+
+**Notebook:**
+[evaluators.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_2/evaluators.ipynb)
+
+### Video 3 — Experiments
+
+**Learnings:**
+- Understood the structure and purpose of LangSmith experiments
+- Learned to run experiments on different dataset segments
+- Mastered experiment configuration and execution
+- Explored detailed performance analysis
+
+**Code Changes:**
+- Implemented various experiment configurations
+- Added specific example testing
+- Created performance measurement cases
+
+**Notebook:**
+[experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_2/experiments.ipynb)
+
+### Video 4 — Analyzing Experiment Results
+
+**Learnings:**
+- Mastered result analysis in LangSmith
+- Learned to compare different model performances
+- Understood performance metrics interpretation
+- Explored dashboard analytics
+
+**Code Changes:**
+- Focus was on result analysis and interpretation
+- No code changes required
+
+### Video 5 — Pairwise Experiments
+
+**Learnings:**
+- Understood pairwise comparison methodology
+- Learned to implement LLM-as-judge evaluations
+- Mastered direct output comparison techniques
+- Explored prompt optimization strategies
+
+**Code Changes:**
+- Implemented pairwise comparison logic
+- Modified evaluation prompts
+- Created comparison test cases
+
+**Notebook:**
+[pairwise_experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_2/pairwise_experiments.ipynb)
+
+### Video 6 — Summary Evaluators
+
+**Learnings:**
+- Understood aggregate evaluation methods
+- Learned to implement summary metrics
+- Mastered global performance analysis
+- Explored statistical evaluation techniques
+
+**Code Changes:**
+- Implemented summary evaluation logic
+- Added aggregation mechanisms
+- Created statistical analysis cases
+
+**Notebook:**
+[summary_evaluators.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_2/summary_evaluators.ipynb)
+
+## Repository Link
+[Kush-Sahni-2210110371-MAT495-Monsoon2025](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025)
 
 This directory contains Jupyter notebooks that demonstrate various features and capabilities of LangSmith, organized by modules.
 
