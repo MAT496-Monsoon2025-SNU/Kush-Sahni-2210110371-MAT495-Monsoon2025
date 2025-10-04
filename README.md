@@ -19,8 +19,9 @@ I have also included Screenshots of the Langsmith Dashboard as well to track wha
 - Added traceable decorators with metadata
 - Created test cases for validation
 
-**Notebook:**
-[tracing_basics.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_1/tracing_basics.ipynb)
+**Notebooks:**
+- My Implementation: [tracing_basics.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_my_version/notebooks/module_1/tracing_basics.ipynb)
+- Original Tutorial: [tracing_basics.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_original/notebooks/module_1/tracing_basics.ipynb)
 
 ### Video 2 — Types of Run
 
@@ -35,8 +36,9 @@ I have also included Screenshots of the Langsmith Dashboard as well to track wha
 - Implemented proper tracing configuration
 - Created test cases with different run types
 
-**Notebook:**
-[types_of_runs.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_1/types_of_runs.ipynb)
+**Notebooks:**
+- My Implementation: [types_of_runs.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_my_version/notebooks/module_1/types_of_runs.ipynb)
+- Original Tutorial: [types_of_runs.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_original/notebooks/module_1/types_of_runs.ipynb)
 
 ### Video 3 — Alternative Tracing Methods
 
@@ -53,8 +55,9 @@ I have also included Screenshots of the Langsmith Dashboard as well to track wha
 - Added fine-grained tracing controls
 - Created comparison test cases
 
-**Notebook:**
-[alternative_tracing_methods.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_1/alternative_tracing_methods.ipynb)
+**Notebooks:**
+- My Implementation: [alternative_tracing_methods.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_my_version/notebooks/module_1/alternative_tracing_methods.ipynb)
+- Original Tutorial: [alternative_tracing_methods.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_original/notebooks/module_1/alternative_tracing_methods.ipynb)
 
 ### Video 4 — Conversational Thread
 
@@ -69,8 +72,9 @@ I have also included Screenshots of the Langsmith Dashboard as well to track wha
 - Added metadata for thread tracking
 - Created multi-turn conversation examples
 
-**Notebook:**
-[conversational_threads.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_1/conversational_threads.ipynb)
+**Notebooks:**
+- My Implementation: [conversational_threads.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_my_version/notebooks/module_1/conversational_threads.ipynb)
+- Original Tutorial: [conversational_threads.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_original/notebooks/module_1/conversational_threads.ipynb)
 
 ## Module 2: Experiments and Evaluation
 
@@ -87,8 +91,9 @@ I have also included Screenshots of the Langsmith Dashboard as well to track wha
 - Added various types of examples
 - Created validation test cases
 
-**Notebook:**
-[dataset_upload.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_2/dataset_upload.ipynb)
+**Notebooks:**
+- My Implementation: [dataset_upload.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_my_version/notebooks/module_2/dataset_upload.ipynb)
+- Original Tutorial: [dataset_upload.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_original/notebooks/module_2/dataset_upload.ipynb)
 
 ### Video 2 — Evaluators
 
@@ -103,8 +108,9 @@ I have also included Screenshots of the Langsmith Dashboard as well to track wha
 - Added comparative evaluation cases
 - Implemented scoring mechanisms
 
-**Notebook:**
-[evaluators.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_2/evaluators.ipynb)
+**Notebooks:**
+- My Implementation: [evaluators.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_my_version/notebooks/module_2/evaluators.ipynb)
+- Original Tutorial: [evaluators.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_original/notebooks/module_2/evaluators.ipynb)
 
 ### Video 3 — Experiments
 
@@ -119,8 +125,9 @@ I have also included Screenshots of the Langsmith Dashboard as well to track wha
 - Added specific example testing
 - Created performance measurement cases
 
-**Notebook:**
-[experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_2/experiments.ipynb)
+**Notebooks:**
+- My Implementation: [experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_my_version/notebooks/module_2/experiments.ipynb)
+- Original Tutorial: [experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_original/notebooks/module_2/experiments.ipynb)
 
 ### Video 4 — Analyzing Experiment Results
 
@@ -147,8 +154,9 @@ I have also included Screenshots of the Langsmith Dashboard as well to track wha
 - Modified evaluation prompts
 - Created comparison test cases
 
-**Notebook:**
-[pairwise_experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_2/pairwise_experiments.ipynb)
+**Notebooks:**
+- My Implementation: [pairwise_experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_my_version/notebooks/module_2/pairwise_experiments.ipynb)
+- Original Tutorial: [pairwise_experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_original/notebooks/module_2/pairwise_experiments.ipynb)
 
 ### Video 6 — Summary Evaluators
 
@@ -163,8 +171,9 @@ I have also included Screenshots of the Langsmith Dashboard as well to track wha
 - Added aggregation mechanisms
 - Created statistical analysis cases
 
-**Notebook:**
-[summary_evaluators.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro-to-langsmith/notebooks/module_2/summary_evaluators.ipynb)
+**Notebooks:**
+- My Implementation: [summary_evaluators.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_my_version/notebooks/module_2/summary_evaluators.ipynb)
+- Original Tutorial: [summary_evaluators.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025/blob/main/intro_to_langsmith_original/notebooks/module_2/summary_evaluators.ipynb)
 
 ## Repository Link
 [Kush-Sahni-2210110371-MAT495-Monsoon2025](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT495-Monsoon2025)
