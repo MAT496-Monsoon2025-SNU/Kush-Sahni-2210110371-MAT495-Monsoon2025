@@ -234,6 +234,8 @@ Here as you can see have got a good enough F1 Score of 0.86 for the model:
 
 **MODULE 3**
 
+**Video 1: Playground**
+
 **Learnings:**
 
 Learnt about Playground in Langsmith which is like an environment for quickly iterating over prompts, repettions, comparing among them and also different model performance for the same prompt 
