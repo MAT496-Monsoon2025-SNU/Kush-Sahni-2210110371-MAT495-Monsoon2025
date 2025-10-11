@@ -230,3 +230,58 @@ Here as you can see have got a good enough F1 Score of 0.86 for the model:
 **Notebooks:**
 - My Implementation: [summary_evaluators.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT496-Monsoon2025-langsmith/blob/main/intro-to-langsmith-my-version/notebooks/module_2/summary_evaluators.ipynb)
 - Original Tutorial: [summary_evaluators.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT496-Monsoon2025-langsmith/blob/main/intro-to-langsmith-original/notebooks/module_2/summary_evaluators.ipynb)
+
+
+**MODULE 3**
+
+**Learnings:**
+
+Learnt about Playground in Langsmith which is like an environment for quickly iterating over prompts, repettions, comparing among them and also different model performance for the same prompt 
+With or without Streaming running a prompt in Playground
+Repetitions useful when Temperature is High for seeing the consistency in the same complex prompt performance multiple times
+Tools, Output Schema
+Comparing a model performance with a set of example dataset that I had defined in my code of fun questions and compare answers with what the model gave me
+
+**Tasks I did:**
+
+Tried my own different prompts inside the Playground in Langsmith UI
+Toggled off the Streaming option which is ON by default and saw how the output came instantly
+Created my own conversation with the chatbot model and made it create an Advertisement statement for the latest iPhone
+Made a System prompt to “You are Sherlock Holmes, answer like him” for experimentation
+Created my own Tool to find the meaning of life
+I created my own fun example dataset and compared the answers with the gpt-4o-mini answers in the experiment
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+My own custom prompt of Buy one get one scheme
+![alt text](image-33.png)
+Asked to answer as Sherlock  Holmes then
+![alt text](image-34.png)
+
+![alt text](image-35.png)
+![alt text](image-36.png)
+
+Added my Output Schema
+![alt text](image-37.png)
+
+Model answered with my Output Shcema
+![alt text](image-38.png)
+Created Tool for answering meaning of Life:
+![alt text](image-39.png)
+When the Model calls the Tool we created and uses it for answering questions
+![alt text](image-40.png)
+ 
+Case when model answers questions without the meaning_of_life tool we created:
+ ![alt text](image-41.png)
+ Choosing from various datasets the example one:
+ ![alt text](image-42.png)
+ ![alt text](image-43.png)
+My experiment expanded:
+ ![alt text](image-44.png)
+  
+![alt text](image-45.png)
+
+**Notebooks:**
+- My Implementation: [pairwise_experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT496-Monsoon2025-langsmith/blob/main/intro-to-langsmith-my-version/notebooks/module_3/playground_experiments.ipynb)
+- Original Tutorial: [pairwise_experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT496-Monsoon2025-langsmith/blob/main/intro-to-langsmith-original/notebooks/module_3/playground_experiments.ipynb)
