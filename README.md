@@ -285,5 +285,5 @@ My experiment expanded:
 ![alt text](image-45.png)
 
 **Notebooks:**
-- My Implementation: [pairwise_experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT496-Monsoon2025-langsmith/blob/main/intro-to-langsmith-my-version/notebooks/module_3/playground_experiments.ipynb)
-- Original Tutorial: [pairwise_experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT496-Monsoon2025-langsmith/blob/main/intro-to-langsmith-original/notebooks/module_3/playground_experiments.ipynb)
+- My Implementation: [playground_experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT496-Monsoon2025-langsmith/blob/main/intro-to-langsmith-my-version/notebooks/module_3/playground_experiments.ipynb)
+- Original Tutorial: [playground_experiments.ipynb](https://github.com/MAT496-Monsoon2025-SNU/Kush-Sahni-2210110371-MAT496-Monsoon2025-langsmith/blob/main/intro-to-langsmith-original/notebooks/module_3/playground_experiments.ipynb)
